@@ -1,5 +1,5 @@
 # IMD0033
-Materiais didáticas para a aula de Probabilidade (IMD0033 - IMD/UFRN)
+Materiais didáticos para a aula de Probabilidade (IMD0033 - IMD/UFRN)
 
 Para baixar no seu computador pela primeira vez:
 ```
